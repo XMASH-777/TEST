@@ -1,1 +1,3 @@
-~~ข้อความนี้ถูกยกเลิก~~
+```python
+def hello_world():
+    print("Hello, GitHub!")
