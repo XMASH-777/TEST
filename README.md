@@ -11,3 +11,9 @@ def hello_world():
 ฉันชอบโค้ดมาก! :rocket: :+1:
 
 ผลลัพธ์: ฉันชอบโค้ดมาก!
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
